@@ -1,3 +1,5 @@
+#!/bin/bash
+
 mode = $1
 attacker = $2
 target = $3
